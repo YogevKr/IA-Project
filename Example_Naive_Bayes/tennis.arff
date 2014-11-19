@@ -1,7 +1,7 @@
 @RELATION TENNIS
 @ATTRIBUTE outlook {sunny, overcast, rain}
 @ATTRIBUTE temperature {hot, mild, cool}
-@ATTRIBUTE humidity {high, normal, low}
+@ATTRIBUTE humidity {high, normal}
 @ATTRIBUTE wind {weak, strong}
 @ATTRIBUTE	play {yes, no, maybe}
 @DATA
