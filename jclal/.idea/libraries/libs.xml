@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/commons-digester-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-configuration-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/java-cup-0.11a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lucene-core-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-beanutils-1.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/hamcrest-core-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/weka-dev-3.7.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/junit-4.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jcommon-1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/mail-1.5.0-b01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-beanutils-core-1.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/activation-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/pentaho-package-manager-1.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-lang-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/mulan-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jfreechart-1.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-collections-3.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

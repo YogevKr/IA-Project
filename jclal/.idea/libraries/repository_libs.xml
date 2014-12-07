@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="repository-libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/repository-libs/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/repository-libs/jfreechart-1.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/repository-libs/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/repository-libs/lucene-core-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/repository-libs/commons-lang-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/repository-libs/jcommon-1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/repository-libs/mail-1.5.0-b01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/repository-libs/weka-dev-3.7.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/repository-libs/commons-configuration-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/repository-libs/junit-4.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/repository-libs/mulan-1.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
