@@ -8,6 +8,6 @@ main/main.iml
 
 test/test.iml
 
-workspace.xml
+.idea/workspace.xml
 
-vcs.xml
+.idea/vcs.xml
