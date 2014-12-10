@@ -9,3 +9,5 @@ main/main.iml
 test/test.iml
 
 workspace.xml
+
+vcs.xml
