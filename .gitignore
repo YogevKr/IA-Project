@@ -1,0 +1,9 @@
+*.class
+
+.idea/*
+
+reports/*
+
+main/main.iml
+
+test/test.iml
