@@ -101,6 +101,7 @@
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -197,6 +198,9 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="e7b15b5a-6eb1-4c2b-ae7f-5649c0f367c3" name="Default" comment="" />
@@ -204,15 +208,15 @@
       <option name="number" value="Default" />
       <updated>1417917983644</updated>
       <workItem from="1417917995568" duration="487000" />
-      <workItem from="1418204348839" duration="736000" />
+      <workItem from="1418204348839" duration="1097000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1223000" />
+    <option name="totallyTimeSpent" value="1584000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="735" extended-state="1" />
+    <frame x="0" y="0" width="1366" height="735" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
