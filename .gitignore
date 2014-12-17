@@ -1,13 +1,9 @@
 *.class
 
-.idea/*
+jclal/.idea/*
 
-reports/*
+jclal/reports/*
 
-main/main.iml
+jclal/.idea/workspace.xml
 
-test/test.iml
-
-.idea/workspace.xml
-
-.idea/vcs.xml
+jclal/.idea/vcs.xml
