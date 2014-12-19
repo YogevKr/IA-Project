@@ -1,0 +1,57 @@
+Wed Dec 17 10.16.44 WET 2014
+Dataset: iris
+Test set size: 51
+Initial Labelled set size: 9
+Initial Unlabelled set size: 90
+Batch mode: QBestBatchMode
+Batch size: 1
+Classifiers: NaiveBayes-SMO
+Scenario: PoolBasedSamplingScenario
+Query strategy: SurpriseExpectedQueryStrategy
+Time begining: Wed Dec 17 10.16.44 WET 2014
+		
+Iteration: 1
+Labeled set size: 9
+Unlabelled set size: 90
+	
+Relative absolute error: 34.314973720651
+Weighted AreaUnderROC: 0.9830688854489165
+Kappa statistic: 0.8524305555555557
+Coverage of cases: 100.0
+Weighted Recall: 0.9019607843137255
+Weighted FMeasure: 0.9028300975562641
+Mean region size: 66.6666666666667
+Weighted TruePositiveRate: 0.9019607843137255
+Incorrectly Classified Instances: 9.803921568627452
+Weighted FalsePositiveRate: 0.03847394220846233
+Root relative squared error: 50.837399507327575
+Weighted AreaUnderPRC: 0.9674214217181761
+Weighted MatthewsCorrelation: 0.8626746933463242
+Correctly Classified Instances: 90.19607843137256
+Root mean squared error: 0.23964979953013973
+Weighted Precision: 0.9129901960784313
+Mean absolute error: 0.1525109943140043
+		
+Iteration: 2
+Labeled set size: 10
+Unlabelled set size: 89
+	
+Relative absolute error: 31.512571176076527
+Weighted AreaUnderROC: 0.9920988132094943
+Kappa statistic: 0.9403508771929824
+Coverage of cases: 100.0
+Weighted Recall: 0.9607843137254902
+Weighted FMeasure: 0.9607843137254902
+Mean region size: 66.6666666666667
+Weighted TruePositiveRate: 0.9607843137254902
+Incorrectly Classified Instances: 3.9215686274509802
+Weighted FalsePositiveRate: 0.018350103199174406
+Root relative squared error: 42.36483773505947
+Weighted AreaUnderPRC: 0.9827617526379138
+Weighted MatthewsCorrelation: 0.9424342105263157
+Correctly Classified Instances: 96.07843137254902
+Root mean squared error: 0.19970976030885512
+Weighted Precision: 0.9607843137254902
+Mean absolute error: 0.14005587189367333
+		
+Time end:Wed Dec 17 10.16.45 WET 2014

@@ -1,0 +1,34 @@
+Wed Dec 17 10.25.35 WET 2014
+Dataset: mfeat
+Test set size: 680
+Initial Labelled set size: 132
+Initial Unlabelled set size: 1198
+Batch mode: QBestBatchMode
+Batch size: 1
+Classifiers: NaiveBayes-SMO
+Scenario: PoolBasedSamplingScenario
+Query strategy: KullbackLeiblerDivergenceQueryStrategy
+Time begining: Wed Dec 17 10.25.35 WET 2014
+		
+Iteration: 1
+Labeled set size: 132
+Unlabelled set size: 1198
+	
+Relative absolute error: 50.43057752762928
+Weighted AreaUnderROC: 0.9875781595325853
+Kappa statistic: 0.8823552027065993
+Coverage of cases: 99.70588235294117
+Weighted Recall: 0.8941176470588236
+Weighted FMeasure: 0.8940307280812136
+Mean region size: 70.23529411764633
+Weighted TruePositiveRate: 0.8941176470588236
+Incorrectly Classified Instances: 10.588235294117647
+Weighted FalsePositiveRate: 0.01164315589754808
+Root relative squared error: 56.592745597337085
+Weighted AreaUnderPRC: 0.9579557216120972
+Weighted MatthewsCorrelation: 0.8838683399064297
+Correctly Classified Instances: 89.41176470588235
+Root mean squared error: 0.1697782367920127
+Weighted Precision: 0.8994755421993281
+Mean absolute error: 0.09077503954973429
+		

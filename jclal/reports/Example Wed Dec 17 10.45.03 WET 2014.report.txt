@@ -1,0 +1,1003 @@
+Wed Dec 17 10.45.03 WET 2014
+Dataset: ecoli
+Test set size: 115
+Initial Labelled set size: 22
+Initial Unlabelled set size: 200
+Batch mode: QBestBatchMode
+Batch size: 1
+Classifiers: NaiveBayes
+Scenario: PoolBasedSamplingScenario
+Query strategy: SurpriseExpectedQueryStrategy
+Time begining: Wed Dec 17 10.45.03 WET 2014
+		
+Iteration: 1
+Labeled set size: 22
+Unlabelled set size: 200
+	
+Relative absolute error: 34.24165054978971
+Weighted AreaUnderROC: 0.897848330347781
+Kappa statistic: 0.5983701979045402
+Coverage of cases: 73.91304347826087
+Weighted Recall: 0.7130434782608696
+Weighted FMeasure: 0.6895396000853911
+Mean region size: 14.021739130434783
+Weighted TruePositiveRate: 0.7130434782608696
+Incorrectly Classified Instances: 28.695652173913043
+Weighted FalsePositiveRate: 0.06307988794283692
+Root relative squared error: 79.97082121717054
+Weighted AreaUnderPRC: 0.7514683402262557
+Weighted MatthewsCorrelation: 0.641375862864088
+Correctly Classified Instances: 71.30434782608695
+Root mean squared error: 0.26447863135280114
+Weighted Precision: 0.7204774083546462
+Mean absolute error: 0.074903610577665
+		
+Iteration: 2
+Labeled set size: 23
+Unlabelled set size: 199
+	
+Relative absolute error: 32.19662107556261
+Weighted AreaUnderROC: 0.8990965618515145
+Kappa statistic: 0.6192866296454507
+Coverage of cases: 77.3913043478261
+Weighted Recall: 0.7304347826086957
+Weighted FMeasure: 0.7023553439424869
+Mean region size: 14.021739130434783
+Weighted TruePositiveRate: 0.7304347826086957
+Incorrectly Classified Instances: 26.956521739130434
+Weighted FalsePositiveRate: 0.06849870534152949
+Root relative squared error: 77.77189688212434
+Weighted AreaUnderPRC: 0.7653609904018159
+Weighted MatthewsCorrelation: 0.6464529025665366
+Correctly Classified Instances: 73.04347826086956
+Root mean squared error: 0.25720637267482577
+Weighted Precision: 0.704994374607568
+Mean absolute error: 0.07043010860279321
+		
+Iteration: 3
+Labeled set size: 24
+Unlabelled set size: 198
+	
+Relative absolute error: 30.021033118297378
+Weighted AreaUnderROC: 0.9076082599733438
+Kappa statistic: 0.6411663438777706
+Coverage of cases: 77.3913043478261
+Weighted Recall: 0.7478260869565218
+Weighted FMeasure: 0.7192026121326689
+Mean region size: 14.130434782608695
+Weighted TruePositiveRate: 0.7478260869565218
+Incorrectly Classified Instances: 25.217391304347824
+Weighted FalsePositiveRate: 0.06419049628450466
+Root relative squared error: 74.04261023755335
+Weighted AreaUnderPRC: 0.7741176887869609
+Weighted MatthewsCorrelation: 0.6796938661896993
+Correctly Classified Instances: 74.78260869565217
+Root mean squared error: 0.24487291638831407
+Weighted Precision: 0.7437587657784012
+Mean absolute error: 0.06567100994627552
+		
+Iteration: 4
+Labeled set size: 25
+Unlabelled set size: 197
+	
+Relative absolute error: 34.965111731118306
+Weighted AreaUnderROC: 0.897073355879487
+Kappa statistic: 0.5799312419424151
+Coverage of cases: 74.78260869565217
+Weighted Recall: 0.7043478260869566
+Weighted FMeasure: 0.6830409170113156
+Mean region size: 14.130434782608695
+Weighted TruePositiveRate: 0.7043478260869566
+Incorrectly Classified Instances: 29.565217391304348
+Weighted FalsePositiveRate: 0.07442383110556894
+Root relative squared error: 80.43158300992658
+Weighted AreaUnderPRC: 0.7456065809176335
+Weighted MatthewsCorrelation: 0.6404729062168308
+Correctly Classified Instances: 70.43478260869566
+Root mean squared error: 0.26600245774939213
+Weighted Precision: 0.7340716210281426
+Mean absolute error: 0.07648618191182129
+		
+Iteration: 5
+Labeled set size: 26
+Unlabelled set size: 196
+	
+Relative absolute error: 34.89303814219654
+Weighted AreaUnderROC: 0.890763737474406
+Kappa statistic: 0.568688384054865
+Coverage of cases: 75.65217391304348
+Weighted Recall: 0.6956521739130435
+Weighted FMeasure: 0.6711000690131126
+Mean region size: 14.565217391304348
+Weighted TruePositiveRate: 0.6956521739130435
+Incorrectly Classified Instances: 30.434782608695652
+Weighted FalsePositiveRate: 0.0764808671036989
+Root relative squared error: 80.35525291872946
+Weighted AreaUnderPRC: 0.7398023896646039
+Weighted MatthewsCorrelation: 0.6263003665928107
+Correctly Classified Instances: 69.56521739130434
+Root mean squared error: 0.2657500197008191
+Weighted Precision: 0.7279670975323149
+Mean absolute error: 0.07632852093605492
+		
+Iteration: 6
+Labeled set size: 27
+Unlabelled set size: 195
+	
+Relative absolute error: 37.11314753268124
+Weighted AreaUnderROC: 0.8754686000192843
+Kappa statistic: 0.5502932869867478
+Coverage of cases: 72.17391304347827
+Weighted Recall: 0.6869565217391305
+Weighted FMeasure: 0.6611517250224445
+Mean region size: 14.23913043478261
+Weighted TruePositiveRate: 0.6869565217391305
+Incorrectly Classified Instances: 31.304347826086957
+Weighted FalsePositiveRate: 0.08707018072378025
+Root relative squared error: 82.60614696188247
+Weighted AreaUnderPRC: 0.7034768671878049
+Weighted MatthewsCorrelation: 0.6231625984926263
+Correctly Classified Instances: 68.69565217391305
+Root mean squared error: 0.2731941520329935
+Weighted Precision: 0.7239990174404325
+Mean absolute error: 0.08118501022774022
+		
+Iteration: 7
+Labeled set size: 28
+Unlabelled set size: 194
+	
+Relative absolute error: 32.89140823612473
+Weighted AreaUnderROC: 0.8791569878838789
+Kappa statistic: 0.5893301590736933
+Coverage of cases: 74.78260869565217
+Weighted Recall: 0.7130434782608696
+Weighted FMeasure: 0.6693788819875777
+Mean region size: 14.021739130434783
+Weighted TruePositiveRate: 0.7130434782608696
+Incorrectly Classified Instances: 28.695652173913043
+Weighted FalsePositiveRate: 0.08556775591649465
+Root relative squared error: 78.40032136595352
+Weighted AreaUnderPRC: 0.7292947826629377
+Weighted MatthewsCorrelation: 0.6182490760725657
+Correctly Classified Instances: 71.30434782608695
+Root mean squared error: 0.25928469130232096
+Weighted Precision: 0.681879060469765
+Mean absolute error: 0.07194995551652285
+		
+Iteration: 8
+Labeled set size: 29
+Unlabelled set size: 193
+	
+Relative absolute error: 33.651251382884894
+Weighted AreaUnderROC: 0.8639675645696672
+Kappa statistic: 0.5914962325080731
+Coverage of cases: 73.91304347826087
+Weighted Recall: 0.7130434782608696
+Weighted FMeasure: 0.66687338109498
+Mean region size: 13.804347826086957
+Weighted TruePositiveRate: 0.7130434782608696
+Incorrectly Classified Instances: 28.695652173913043
+Weighted FalsePositiveRate: 0.07897823486217127
+Root relative squared error: 79.48527805550589
+Weighted AreaUnderPRC: 0.6919745819402106
+Weighted MatthewsCorrelation: 0.621946938251273
+Correctly Classified Instances: 71.30434782608695
+Root mean squared error: 0.2628728482821103
+Weighted Precision: 0.6855742782516238
+Mean absolute error: 0.0736121124000607
+		
+Iteration: 9
+Labeled set size: 30
+Unlabelled set size: 192
+	
+Relative absolute error: 32.44895007414719
+Weighted AreaUnderROC: 0.8863875314791723
+Kappa statistic: 0.6172017609792763
+Coverage of cases: 75.65217391304348
+Weighted Recall: 0.7304347826086957
+Weighted FMeasure: 0.6904874835309617
+Mean region size: 13.91304347826087
+Weighted TruePositiveRate: 0.7304347826086957
+Incorrectly Classified Instances: 26.956521739130434
+Weighted FalsePositiveRate: 0.07017217501841909
+Root relative squared error: 77.536111665116
+Weighted AreaUnderPRC: 0.7277862139961618
+Weighted MatthewsCorrelation: 0.6475068155749938
+Correctly Classified Instances: 73.04347826086956
+Root mean squared error: 0.25642658636603893
+Weighted Precision: 0.7027385657820441
+Mean absolute error: 0.07098207828719698
+		
+Iteration: 10
+Labeled set size: 31
+Unlabelled set size: 191
+	
+Relative absolute error: 36.905221518812134
+Weighted AreaUnderROC: 0.8866550177828935
+Kappa statistic: 0.5427189682966147
+Coverage of cases: 74.78260869565217
+Weighted Recall: 0.6782608695652174
+Weighted FMeasure: 0.6501058608366657
+Mean region size: 14.891304347826088
+Weighted TruePositiveRate: 0.6782608695652174
+Incorrectly Classified Instances: 32.17391304347826
+Weighted FalsePositiveRate: 0.08397180492291467
+Root relative squared error: 81.72294641651176
+Weighted AreaUnderPRC: 0.7209672867784065
+Weighted MatthewsCorrelation: 0.5919131889648548
+Correctly Classified Instances: 67.82608695652173
+Root mean squared error: 0.2702732407819341
+Weighted Precision: 0.6671791124476547
+Mean absolute error: 0.08073017207240155
+		
+Iteration: 11
+Labeled set size: 32
+Unlabelled set size: 190
+	
+Relative absolute error: 34.380608000313146
+Weighted AreaUnderROC: 0.8866665195778787
+Kappa statistic: 0.5787999569104816
+Coverage of cases: 76.52173913043478
+Weighted Recall: 0.7043478260869566
+Weighted FMeasure: 0.6649275811898231
+Mean region size: 14.456521739130435
+Weighted TruePositiveRate: 0.7043478260869566
+Incorrectly Classified Instances: 29.565217391304348
+Weighted FalsePositiveRate: 0.08008650425688567
+Root relative squared error: 79.17370641894772
+Weighted AreaUnderPRC: 0.7381048004835635
+Weighted MatthewsCorrelation: 0.6164551759651246
+Correctly Classified Instances: 70.43478260869566
+Root mean squared error: 0.2618424219497174
+Weighted Precision: 0.682497548218372
+Mean absolute error: 0.075207580000685
+		
+Iteration: 12
+Labeled set size: 33
+Unlabelled set size: 189
+	
+Relative absolute error: 34.19545137908976
+Weighted AreaUnderROC: 0.8876432150654459
+Kappa statistic: 0.5787999569104816
+Coverage of cases: 76.52173913043478
+Weighted Recall: 0.7043478260869566
+Weighted FMeasure: 0.6649275811898231
+Mean region size: 14.456521739130435
+Weighted TruePositiveRate: 0.7043478260869566
+Incorrectly Classified Instances: 29.565217391304348
+Weighted FalsePositiveRate: 0.08008650425688567
+Root relative squared error: 78.99557923649672
+Weighted AreaUnderPRC: 0.7401045485162357
+Weighted MatthewsCorrelation: 0.6164551759651246
+Correctly Classified Instances: 70.43478260869566
+Root mean squared error: 0.26125332166658494
+Weighted Precision: 0.682497548218372
+Mean absolute error: 0.07480254989175886
+		
+Iteration: 13
+Labeled set size: 34
+Unlabelled set size: 188
+	
+Relative absolute error: 34.25184373516484
+Weighted AreaUnderROC: 0.8697605359036604
+Kappa statistic: 0.5623572904207894
+Coverage of cases: 76.52173913043478
+Weighted Recall: 0.6956521739130435
+Weighted FMeasure: 0.6480980463844602
+Mean region size: 14.347826086956522
+Weighted TruePositiveRate: 0.6956521739130435
+Incorrectly Classified Instances: 30.434782608695652
+Weighted FalsePositiveRate: 0.08588676149909234
+Root relative squared error: 79.3835549366324
+Weighted AreaUnderPRC: 0.7075129996396509
+Weighted MatthewsCorrelation: 0.6180513236291008
+Correctly Classified Instances: 69.56521739130434
+Root mean squared error: 0.2625364306882039
+Weighted Precision: 0.7089702517162471
+Mean absolute error: 0.07492590817067309
+		
+Iteration: 14
+Labeled set size: 35
+Unlabelled set size: 187
+	
+Relative absolute error: 33.61054036994308
+Weighted AreaUnderROC: 0.8787926068245737
+Kappa statistic: 0.5773886727194121
+Coverage of cases: 74.78260869565217
+Weighted Recall: 0.7043478260869566
+Weighted FMeasure: 0.6657620079779968
+Mean region size: 13.91304347826087
+Weighted TruePositiveRate: 0.7043478260869566
+Incorrectly Classified Instances: 29.565217391304348
+Weighted FalsePositiveRate: 0.07913773765347011
+Root relative squared error: 79.05872695282274
+Weighted AreaUnderPRC: 0.7324746039389235
+Weighted MatthewsCorrelation: 0.6247549345068258
+Correctly Classified Instances: 70.43478260869566
+Root mean squared error: 0.26146216310816034
+Weighted Precision: 0.6954803300104334
+Mean absolute error: 0.07352305705925048
+		
+Iteration: 15
+Labeled set size: 36
+Unlabelled set size: 186
+	
+Relative absolute error: 34.95883911376442
+Weighted AreaUnderROC: 0.8814157932252958
+Kappa statistic: 0.5664584230934941
+Coverage of cases: 73.91304347826087
+Weighted Recall: 0.6956521739130435
+Weighted FMeasure: 0.6581439711874494
+Mean region size: 14.130434782608695
+Weighted TruePositiveRate: 0.6956521739130435
+Incorrectly Classified Instances: 30.434782608695652
+Weighted FalsePositiveRate: 0.08119477365160008
+Root relative squared error: 80.34829085156689
+Weighted AreaUnderPRC: 0.727391657113388
+Weighted MatthewsCorrelation: 0.6085758589381005
+Correctly Classified Instances: 69.56521739130434
+Root mean squared error: 0.2657269948279152
+Weighted Precision: 0.6776232936163498
+Mean absolute error: 0.07647246056135967
+		
+Iteration: 16
+Labeled set size: 37
+Unlabelled set size: 185
+	
+Relative absolute error: 34.372143314738295
+Weighted AreaUnderROC: 0.8851048659964262
+Kappa statistic: 0.5784821043553257
+Coverage of cases: 74.78260869565217
+Weighted Recall: 0.7043478260869566
+Weighted FMeasure: 0.6689147221755917
+Mean region size: 14.130434782608695
+Weighted TruePositiveRate: 0.7043478260869566
+Incorrectly Classified Instances: 29.565217391304348
+Weighted FalsePositiveRate: 0.07998943572650322
+Root relative squared error: 79.62884766962978
+Weighted AreaUnderPRC: 0.7354215922844164
+Weighted MatthewsCorrelation: 0.6187433723378437
+Correctly Classified Instances: 70.43478260869566
+Root mean squared error: 0.26334766015060695
+Weighted Precision: 0.6843052158131462
+Mean absolute error: 0.07518906350099003
+		
+Iteration: 17
+Labeled set size: 38
+Unlabelled set size: 184
+	
+Relative absolute error: 34.5512878783286
+Weighted AreaUnderROC: 0.8853102278772195
+Kappa statistic: 0.5784821043553257
+Coverage of cases: 74.78260869565217
+Weighted Recall: 0.7043478260869566
+Weighted FMeasure: 0.6689147221755917
+Mean region size: 14.347826086956522
+Weighted TruePositiveRate: 0.7043478260869566
+Incorrectly Classified Instances: 29.565217391304348
+Weighted FalsePositiveRate: 0.07998943572650322
+Root relative squared error: 79.84436048780786
+Weighted AreaUnderPRC: 0.7366429919856591
+Weighted MatthewsCorrelation: 0.6187433723378437
+Correctly Classified Instances: 70.43478260869566
+Root mean squared error: 0.26406040180216434
+Weighted Precision: 0.6843052158131462
+Mean absolute error: 0.07558094223384382
+		
+Iteration: 18
+Labeled set size: 39
+Unlabelled set size: 183
+	
+Relative absolute error: 33.81325100103139
+Weighted AreaUnderROC: 0.8881680794997809
+Kappa statistic: 0.592286205414697
+Coverage of cases: 75.65217391304348
+Weighted Recall: 0.7130434782608696
+Weighted FMeasure: 0.6810215232337994
+Mean region size: 14.456521739130435
+Weighted TruePositiveRate: 0.7130434782608696
+Incorrectly Classified Instances: 28.695652173913043
+Weighted FalsePositiveRate: 0.07229164527746544
+Root relative squared error: 79.0049537241472
+Weighted AreaUnderPRC: 0.7497004476016063
+Weighted MatthewsCorrelation: 0.6339756032651437
+Correctly Classified Instances: 71.30434782608695
+Root mean squared error: 0.2612843248703247
+Weighted Precision: 0.6947062183194117
+Mean absolute error: 0.07396648656475617
+		
+Iteration: 19
+Labeled set size: 40
+Unlabelled set size: 182
+	
+Relative absolute error: 34.08163686453488
+Weighted AreaUnderROC: 0.8878982013897896
+Kappa statistic: 0.5802919708029197
+Coverage of cases: 73.91304347826087
+Weighted Recall: 0.7043478260869566
+Weighted FMeasure: 0.6707622811970638
+Mean region size: 14.23913043478261
+Weighted TruePositiveRate: 0.7043478260869566
+Incorrectly Classified Instances: 29.565217391304348
+Weighted FalsePositiveRate: 0.0734969832025623
+Root relative squared error: 79.35352650365576
+Weighted AreaUnderPRC: 0.7458488915560633
+Weighted MatthewsCorrelation: 0.6241769492128005
+Correctly Classified Instances: 70.43478260869566
+Root mean squared error: 0.26243712098080746
+Weighted Precision: 0.688604006267543
+Mean absolute error: 0.07455358064117006
+		
+Iteration: 20
+Labeled set size: 41
+Unlabelled set size: 181
+	
+Relative absolute error: 34.767004741375764
+Weighted AreaUnderROC: 0.8772439168635718
+Kappa statistic: 0.5683646112600536
+Coverage of cases: 73.91304347826087
+Weighted Recall: 0.6956521739130435
+Weighted FMeasure: 0.660564390109385
+Mean region size: 13.804347826086957
+Weighted TruePositiveRate: 0.6956521739130435
+Incorrectly Classified Instances: 30.434782608695652
+Weighted FalsePositiveRate: 0.07460525259727672
+Root relative squared error: 80.54849265418201
+Weighted AreaUnderPRC: 0.7293547152397319
+Weighted MatthewsCorrelation: 0.6148944037760946
+Correctly Classified Instances: 69.56521739130434
+Root mean squared error: 0.26638910005509825
+Weighted Precision: 0.6835665250081727
+Mean absolute error: 0.07605282287175948
+		
+Iteration: 21
+Labeled set size: 42
+Unlabelled set size: 180
+	
+Relative absolute error: 35.24014840208603
+Weighted AreaUnderROC: 0.8492221278190236
+Kappa statistic: 0.565381708238851
+Coverage of cases: 72.17391304347827
+Weighted Recall: 0.6956521739130435
+Weighted FMeasure: 0.6547974034728333
+Mean region size: 13.369565217391305
+Weighted TruePositiveRate: 0.6956521739130435
+Incorrectly Classified Instances: 30.434782608695652
+Weighted FalsePositiveRate: 0.08024600704818453
+Root relative squared error: 82.05540642138439
+Weighted AreaUnderPRC: 0.6787952953008277
+Weighted MatthewsCorrelation: 0.6153295721605723
+Correctly Classified Instances: 69.56521739130434
+Root mean squared error: 0.2713727488991445
+Weighted Precision: 0.6912641047897106
+Mean absolute error: 0.07708782462956319
+		
+Iteration: 22
+Labeled set size: 43
+Unlabelled set size: 179
+	
+Relative absolute error: 35.412059597543774
+Weighted AreaUnderROC: 0.8540237370765434
+Kappa statistic: 0.565381708238851
+Coverage of cases: 72.17391304347827
+Weighted Recall: 0.6956521739130435
+Weighted FMeasure: 0.6547974034728333
+Mean region size: 13.478260869565217
+Weighted TruePositiveRate: 0.6956521739130435
+Incorrectly Classified Instances: 30.434782608695652
+Weighted FalsePositiveRate: 0.08024600704818453
+Root relative squared error: 82.26960397998599
+Weighted AreaUnderPRC: 0.6817209866875134
+Weighted MatthewsCorrelation: 0.6153295721605723
+Correctly Classified Instances: 69.56521739130434
+Root mean squared error: 0.27208114073851575
+Weighted Precision: 0.6912641047897106
+Mean absolute error: 0.07746388036962701
+		
+Iteration: 23
+Labeled set size: 44
+Unlabelled set size: 178
+	
+Relative absolute error: 35.38542160255629
+Weighted AreaUnderROC: 0.8540086343532295
+Kappa statistic: 0.565381708238851
+Coverage of cases: 72.17391304347827
+Weighted Recall: 0.6956521739130435
+Weighted FMeasure: 0.6547974034728333
+Mean region size: 13.478260869565217
+Weighted TruePositiveRate: 0.6956521739130435
+Incorrectly Classified Instances: 30.434782608695652
+Weighted FalsePositiveRate: 0.08024600704818453
+Root relative squared error: 82.2000444514328
+Weighted AreaUnderPRC: 0.6813350040976517
+Weighted MatthewsCorrelation: 0.6153295721605723
+Correctly Classified Instances: 69.56521739130434
+Root mean squared error: 0.2718510942211825
+Weighted Precision: 0.6912641047897106
+Mean absolute error: 0.07740560975559188
+		
+Iteration: 24
+Labeled set size: 45
+Unlabelled set size: 177
+	
+Relative absolute error: 35.28808528919566
+Weighted AreaUnderROC: 0.8722734985078138
+Kappa statistic: 0.5773886727194121
+Coverage of cases: 72.17391304347827
+Weighted Recall: 0.7043478260869566
+Weighted FMeasure: 0.6657620079779968
+Mean region size: 13.695652173913043
+Weighted TruePositiveRate: 0.7043478260869566
+Incorrectly Classified Instances: 29.565217391304348
+Weighted FalsePositiveRate: 0.07913773765347011
+Root relative squared error: 81.38695467892
+Weighted AreaUnderPRC: 0.7245800785282365
+Weighted MatthewsCorrelation: 0.6247549345068258
+Correctly Classified Instances: 70.43478260869566
+Root mean squared error: 0.2691620525566338
+Weighted Precision: 0.6954803300104334
+Mean absolute error: 0.07719268657011549
+		
+Iteration: 25
+Labeled set size: 46
+Unlabelled set size: 176
+	
+Relative absolute error: 33.18452599999371
+Weighted AreaUnderROC: 0.9089549932328738
+Kappa statistic: 0.5960187353629977
+Coverage of cases: 78.26086956521739
+Weighted Recall: 0.7130434782608696
+Weighted FMeasure: 0.6848819875776397
+Mean region size: 15.326086956521738
+Weighted TruePositiveRate: 0.7130434782608696
+Incorrectly Classified Instances: 28.695652173913043
+Weighted FalsePositiveRate: 0.06716615994764652
+Root relative squared error: 77.1182465091833
+Weighted AreaUnderPRC: 0.7775388880233757
+Weighted MatthewsCorrelation: 0.6253243408998082
+Correctly Classified Instances: 71.30434782608695
+Root mean squared error: 0.2550446272608425
+Weighted Precision: 0.680023528616879
+Mean absolute error: 0.07259115062498624
+		
+Iteration: 26
+Labeled set size: 47
+Unlabelled set size: 175
+	
+Relative absolute error: 33.39140343912707
+Weighted AreaUnderROC: 0.9113440686933713
+Kappa statistic: 0.5827107790821773
+Coverage of cases: 79.1304347826087
+Weighted Recall: 0.7043478260869566
+Weighted FMeasure: 0.6750906631621401
+Mean region size: 15.434782608695652
+Weighted TruePositiveRate: 0.7043478260869566
+Incorrectly Classified Instances: 29.565217391304348
+Weighted FalsePositiveRate: 0.07401225232365119
+Root relative squared error: 77.25659586291677
+Weighted AreaUnderPRC: 0.782884341361493
+Weighted MatthewsCorrelation: 0.609774151968981
+Correctly Classified Instances: 70.43478260869566
+Root mean squared error: 0.2555021747408741
+Weighted Precision: 0.6662950575994054
+Mean absolute error: 0.07304369502309047
+		
+Iteration: 27
+Labeled set size: 48
+Unlabelled set size: 174
+	
+Relative absolute error: 32.76877665886711
+Weighted AreaUnderROC: 0.9076960665997598
+Kappa statistic: 0.5921985815602837
+Coverage of cases: 78.26086956521739
+Weighted Recall: 0.7130434782608696
+Weighted FMeasure: 0.6812040133779264
+Mean region size: 14.782608695652174
+Weighted TruePositiveRate: 0.7130434782608696
+Incorrectly Classified Instances: 28.695652173913043
+Weighted FalsePositiveRate: 0.07759597077642903
+Root relative squared error: 76.66829172515948
+Weighted AreaUnderPRC: 0.7737912121337239
+Weighted MatthewsCorrelation: 0.6170738699584192
+Correctly Classified Instances: 71.30434782608695
+Root mean squared error: 0.253556541686154
+Weighted Precision: 0.6690821256038647
+Mean absolute error: 0.07168169894127181
+		
+Iteration: 28
+Labeled set size: 49
+Unlabelled set size: 173
+	
+Relative absolute error: 28.791031882744694
+Weighted AreaUnderROC: 0.9200076900092529
+Kappa statistic: 0.6442666666666667
+Coverage of cases: 80.8695652173913
+Weighted Recall: 0.7478260869565218
+Weighted FMeasure: 0.7324246773576314
+Mean region size: 14.891304347826088
+Weighted TruePositiveRate: 0.7478260869565218
+Incorrectly Classified Instances: 25.217391304347824
+Weighted FalsePositiveRate: 0.06657337214324802
+Root relative squared error: 71.55430641538076
+Weighted AreaUnderPRC: 0.8010460826848406
+Weighted MatthewsCorrelation: 0.6728774592609786
+Correctly Classified Instances: 74.78260869565217
+Root mean squared error: 0.23664362501351388
+Weighted Precision: 0.735575608422204
+Mean absolute error: 0.06298038224350401
+		
+Iteration: 29
+Labeled set size: 50
+Unlabelled set size: 172
+	
+Relative absolute error: 29.14355829107052
+Weighted AreaUnderROC: 0.9204216523745163
+Kappa statistic: 0.6332518337408313
+Coverage of cases: 82.6086956521739
+Weighted Recall: 0.7391304347826086
+Weighted FMeasure: 0.7249168977142726
+Mean region size: 14.891304347826088
+Weighted TruePositiveRate: 0.7391304347826086
+Incorrectly Classified Instances: 26.08695652173913
+Weighted FalsePositiveRate: 0.06863040814137798
+Root relative squared error: 71.86825650437198
+Weighted AreaUnderPRC: 0.8013406033729915
+Weighted MatthewsCorrelation: 0.6609827285500673
+Correctly Classified Instances: 73.91304347826087
+Root mean squared error: 0.23768191733796057
+Weighted Precision: 0.7296010857447531
+Mean absolute error: 0.06375153376171676
+		
+Iteration: 30
+Labeled set size: 51
+Unlabelled set size: 171
+	
+Relative absolute error: 28.73232939137554
+Weighted AreaUnderROC: 0.9248314341629332
+Kappa statistic: 0.6445320827115754
+Coverage of cases: 83.47826086956522
+Weighted Recall: 0.7478260869565218
+Weighted FMeasure: 0.7306670303825932
+Mean region size: 15.217391304347826
+Weighted TruePositiveRate: 0.7478260869565218
+Incorrectly Classified Instances: 25.217391304347824
+Weighted FalsePositiveRate: 0.06594376250122608
+Root relative squared error: 70.87665651035104
+Weighted AreaUnderPRC: 0.8151539769312224
+Weighted MatthewsCorrelation: 0.670078306449816
+Correctly Classified Instances: 74.78260869565217
+Root mean squared error: 0.23440250860766992
+Weighted Precision: 0.7275982927322229
+Mean absolute error: 0.06285197054363399
+		
+Iteration: 31
+Labeled set size: 52
+Unlabelled set size: 170
+	
+Relative absolute error: 28.97827536242391
+Weighted AreaUnderROC: 0.9243504440261037
+Kappa statistic: 0.6445320827115754
+Coverage of cases: 82.6086956521739
+Weighted Recall: 0.7478260869565218
+Weighted FMeasure: 0.7306670303825932
+Mean region size: 15.108695652173912
+Weighted TruePositiveRate: 0.7478260869565218
+Incorrectly Classified Instances: 25.217391304347824
+Weighted FalsePositiveRate: 0.06594376250122608
+Root relative squared error: 71.35539401938618
+Weighted AreaUnderPRC: 0.81432114001289
+Weighted MatthewsCorrelation: 0.670078306449816
+Correctly Classified Instances: 74.78260869565217
+Root mean squared error: 0.23598578409790183
+Weighted Precision: 0.7275982927322229
+Mean absolute error: 0.0633899773553023
+		
+Iteration: 32
+Labeled set size: 53
+Unlabelled set size: 169
+	
+Relative absolute error: 29.037546886298525
+Weighted AreaUnderROC: 0.9245420457397894
+Kappa statistic: 0.6335245379222434
+Coverage of cases: 82.6086956521739
+Weighted Recall: 0.7391304347826086
+Weighted FMeasure: 0.7231592507392344
+Mean region size: 15.217391304347826
+Weighted TruePositiveRate: 0.7391304347826086
+Incorrectly Classified Instances: 26.08695652173913
+Weighted FalsePositiveRate: 0.06800079849935604
+Root relative squared error: 71.37563377806521
+Weighted AreaUnderPRC: 0.8146386317971258
+Weighted MatthewsCorrelation: 0.6581835757389047
+Correctly Classified Instances: 73.91304347826087
+Root mean squared error: 0.23605272080797765
+Weighted Precision: 0.721623770054772
+Mean absolute error: 0.06351963381377802
+		
+Iteration: 33
+Labeled set size: 54
+Unlabelled set size: 168
+	
+Relative absolute error: 29.038504554063724
+Weighted AreaUnderROC: 0.9247362120271535
+Kappa statistic: 0.63258785942492
+Coverage of cases: 82.6086956521739
+Weighted Recall: 0.7391304347826086
+Weighted FMeasure: 0.7221724504016634
+Mean region size: 15.108695652173912
+Weighted TruePositiveRate: 0.7391304347826086
+Incorrectly Classified Instances: 26.08695652173913
+Weighted FalsePositiveRate: 0.06714910042632294
+Root relative squared error: 71.02439812062782
+Weighted AreaUnderPRC: 0.8146719911488254
+Weighted MatthewsCorrelation: 0.6598579846284499
+Correctly Classified Instances: 73.91304347826087
+Root mean squared error: 0.23489111805653065
+Weighted Precision: 0.7188230100438967
+Mean absolute error: 0.06352172871201439
+		
+Iteration: 34
+Labeled set size: 55
+Unlabelled set size: 167
+	
+Relative absolute error: 29.069090169311977
+Weighted AreaUnderROC: 0.9192853918217402
+Kappa statistic: 0.634262694794869
+Coverage of cases: 80.8695652173913
+Weighted Recall: 0.7391304347826086
+Weighted FMeasure: 0.726981175479945
+Mean region size: 14.565217391304348
+Weighted TruePositiveRate: 0.7391304347826086
+Incorrectly Classified Instances: 26.08695652173913
+Weighted FalsePositiveRate: 0.06024042241060595
+Root relative squared error: 72.31689942234016
+Weighted AreaUnderPRC: 0.7992292014605296
+Weighted MatthewsCorrelation: 0.6713113366482345
+Correctly Classified Instances: 73.91304347826087
+Root mean squared error: 0.23916566432347824
+Weighted Precision: 0.7367224080267558
+Mean absolute error: 0.06358863474536995
+		
+Iteration: 35
+Labeled set size: 56
+Unlabelled set size: 166
+	
+Relative absolute error: 29.96378616167979
+Weighted AreaUnderROC: 0.9204444103906174
+Kappa statistic: 0.6233491811938721
+Coverage of cases: 81.73913043478261
+Weighted Recall: 0.7304347826086957
+Weighted FMeasure: 0.7194175079311581
+Mean region size: 14.565217391304348
+Weighted TruePositiveRate: 0.7304347826086957
+Incorrectly Classified Instances: 26.956521739130434
+Weighted FalsePositiveRate: 0.06229745840873591
+Root relative squared error: 73.90084713415212
+Weighted AreaUnderPRC: 0.8028662241537049
+Weighted MatthewsCorrelation: 0.6592867423739733
+Correctly Classified Instances: 73.04347826086956
+Root mean squared error: 0.24440407899245858
+Weighted Precision: 0.7302699006023813
+Mean absolute error: 0.06554578222867453
+		
+Iteration: 36
+Labeled set size: 57
+Unlabelled set size: 165
+	
+Relative absolute error: 27.373077349713913
+Weighted AreaUnderROC: 0.9269777542274917
+Kappa statistic: 0.6368421052631578
+Coverage of cases: 86.08695652173913
+Weighted Recall: 0.7391304347826086
+Weighted FMeasure: 0.7228624343290538
+Mean region size: 15.0
+Weighted TruePositiveRate: 0.7391304347826086
+Incorrectly Classified Instances: 26.08695652173913
+Weighted FalsePositiveRate: 0.059397428618338126
+Root relative squared error: 67.99341947668856
+Weighted AreaUnderPRC: 0.8096459571967674
+Weighted MatthewsCorrelation: 0.6607575622413868
+Correctly Classified Instances: 73.91304347826087
+Root mean squared error: 0.22486709840526678
+Weighted Precision: 0.7188588478869808
+Mean absolute error: 0.05987860670249918
+		
+Iteration: 37
+Labeled set size: 58
+Unlabelled set size: 164
+	
+Relative absolute error: 27.608504532949002
+Weighted AreaUnderROC: 0.9278871437318215
+Kappa statistic: 0.6266233766233766
+Coverage of cases: 86.08695652173913
+Weighted Recall: 0.7304347826086957
+Weighted FMeasure: 0.7154759078120926
+Mean region size: 15.0
+Weighted TruePositiveRate: 0.7304347826086957
+Incorrectly Classified Instances: 26.956521739130434
+Weighted FalsePositiveRate: 0.05987608837103058
+Root relative squared error: 68.2373017566965
+Weighted AreaUnderPRC: 0.8147770348826378
+Weighted MatthewsCorrelation: 0.6505205321117308
+Correctly Classified Instances: 73.04347826086956
+Root mean squared error: 0.2256736632328623
+Weighted Precision: 0.7146832298136645
+Mean absolute error: 0.06039360366582594
+		
+Iteration: 38
+Labeled set size: 59
+Unlabelled set size: 163
+	
+Relative absolute error: 27.75583179225122
+Weighted AreaUnderROC: 0.9279952144531074
+Kappa statistic: 0.6148613291470436
+Coverage of cases: 86.08695652173913
+Weighted Recall: 0.7217391304347827
+Weighted FMeasure: 0.7088689171897568
+Mean region size: 15.0
+Weighted TruePositiveRate: 0.7217391304347827
+Incorrectly Classified Instances: 27.82608695652174
+Weighted FalsePositiveRate: 0.060354748123723045
+Root relative squared error: 68.19779382008515
+Weighted AreaUnderPRC: 0.8137060726248501
+Weighted MatthewsCorrelation: 0.6427593818733652
+Correctly Classified Instances: 72.17391304347827
+Root mean squared error: 0.22554300301400368
+Weighted Precision: 0.7093623188405798
+Mean absolute error: 0.06071588204554955
+		
+Iteration: 39
+Labeled set size: 60
+Unlabelled set size: 162
+	
+Relative absolute error: 27.362776025302196
+Weighted AreaUnderROC: 0.927319178671511
+Kappa statistic: 0.637147665124106
+Coverage of cases: 86.08695652173913
+Weighted Recall: 0.7391304347826086
+Weighted FMeasure: 0.7252368773596395
+Mean region size: 15.0
+Weighted TruePositiveRate: 0.7391304347826086
+Incorrectly Classified Instances: 26.08695652173913
+Weighted FalsePositiveRate: 0.05772198384251816
+Root relative squared error: 68.00984444798333
+Weighted AreaUnderPRC: 0.8148522117224648
+Weighted MatthewsCorrelation: 0.6645290962551228
+Correctly Classified Instances: 73.91304347826087
+Root mean squared error: 0.22492141889193845
+Weighted Precision: 0.7240555352575813
+Mean absolute error: 0.059856072555348555
+		
+Iteration: 40
+Labeled set size: 61
+Unlabelled set size: 161
+	
+Relative absolute error: 27.45128646685394
+Weighted AreaUnderROC: 0.9273237771126395
+Kappa statistic: 0.637147665124106
+Coverage of cases: 86.08695652173913
+Weighted Recall: 0.7391304347826086
+Weighted FMeasure: 0.7252368773596395
+Mean region size: 15.0
+Weighted TruePositiveRate: 0.7391304347826086
+Incorrectly Classified Instances: 26.08695652173913
+Weighted FalsePositiveRate: 0.05772198384251816
+Root relative squared error: 68.1373393988879
+Weighted AreaUnderPRC: 0.8144134896878679
+Weighted MatthewsCorrelation: 0.6645290962551228
+Correctly Classified Instances: 73.91304347826087
+Root mean squared error: 0.22534306880882582
+Weighted Precision: 0.7240555352575813
+Mean absolute error: 0.06004968914624299
+		
+Iteration: 41
+Labeled set size: 62
+Unlabelled set size: 160
+	
+Relative absolute error: 27.381512677450246
+Weighted AreaUnderROC: 0.9272829772183135
+Kappa statistic: 0.63653603034134
+Coverage of cases: 86.08695652173913
+Weighted Recall: 0.7391304347826086
+Weighted FMeasure: 0.7249672447340918
+Mean region size: 15.0
+Weighted TruePositiveRate: 0.7391304347826086
+Incorrectly Classified Instances: 26.08695652173913
+Weighted FalsePositiveRate: 0.059300360087955674
+Root relative squared error: 67.99037497453116
+Weighted AreaUnderPRC: 0.8135954644821806
+Weighted MatthewsCorrelation: 0.6628328236440109
+Correctly Classified Instances: 73.91304347826087
+Root mean squared error: 0.2248570296607987
+Weighted Precision: 0.7217573986116185
+Mean absolute error: 0.059897058981922414
+		
+Iteration: 42
+Labeled set size: 63
+Unlabelled set size: 159
+	
+Relative absolute error: 27.45316062863309
+Weighted AreaUnderROC: 0.9274255288932955
+Kappa statistic: 0.63653603034134
+Coverage of cases: 86.08695652173913
+Weighted Recall: 0.7391304347826086
+Weighted FMeasure: 0.7249672447340918
+Mean region size: 15.0
+Weighted TruePositiveRate: 0.7391304347826086
+Incorrectly Classified Instances: 26.08695652173913
+Weighted FalsePositiveRate: 0.059300360087955674
+Root relative squared error: 68.12061270160326
+Weighted AreaUnderPRC: 0.813780299600853
+Weighted MatthewsCorrelation: 0.6628328236440109
+Correctly Classified Instances: 73.91304347826087
+Root mean squared error: 0.22528775045723756
+Weighted Precision: 0.7217573986116185
+Mean absolute error: 0.06005378887513488
+		
+Iteration: 43
+Labeled set size: 64
+Unlabelled set size: 158
+	
+Relative absolute error: 27.66193510228939
+Weighted AreaUnderROC: 0.9245050322400497
+Kappa statistic: 0.6374908059262372
+Coverage of cases: 82.6086956521739
+Weighted Recall: 0.7391304347826086
+Weighted FMeasure: 0.7260314228934267
+Mean region size: 14.891304347826088
+Weighted TruePositiveRate: 0.7391304347826086
+Incorrectly Classified Instances: 26.08695652173913
+Weighted FalsePositiveRate: 0.059328311458201936
+Root relative squared error: 69.06043377821142
+Weighted AreaUnderPRC: 0.8052986493877334
+Weighted MatthewsCorrelation: 0.6645752401578066
+Correctly Classified Instances: 73.91304347826087
+Root mean squared error: 0.22839591651424027
+Weighted Precision: 0.7316811594202897
+Mean absolute error: 0.06051048303625804
+		
+Iteration: 44
+Labeled set size: 65
+Unlabelled set size: 157
+	
+Relative absolute error: 27.489750098179695
+Weighted AreaUnderROC: 0.926401463140937
+Kappa statistic: 0.6723646723646725
+Coverage of cases: 81.73913043478261
+Weighted Recall: 0.7652173913043478
+Weighted FMeasure: 0.7487982716716175
+Mean region size: 14.891304347826088
+Weighted TruePositiveRate: 0.7652173913043478
+Incorrectly Classified Instances: 23.47826086956522
+Weighted FalsePositiveRate: 0.05495766814026071
+Root relative squared error: 68.39114824908576
+Weighted AreaUnderPRC: 0.8050930006568575
+Weighted MatthewsCorrelation: 0.6955075662711215
+Correctly Classified Instances: 76.52173913043478
+Root mean squared error: 0.22618246268153927
+Weighted Precision: 0.7548115425353276
+Mean absolute error: 0.06013382833976809
+		
+Iteration: 45
+Labeled set size: 66
+Unlabelled set size: 156
+	
+Relative absolute error: 27.57508487661045
+Weighted AreaUnderROC: 0.926401463140937
+Kappa statistic: 0.6723646723646725
+Coverage of cases: 82.6086956521739
+Weighted Recall: 0.7652173913043478
+Weighted FMeasure: 0.7487982716716175
+Mean region size: 15.0
+Weighted TruePositiveRate: 0.7652173913043478
+Incorrectly Classified Instances: 23.47826086956522
+Weighted FalsePositiveRate: 0.05495766814026071
+Root relative squared error: 68.51670597208891
+Weighted AreaUnderPRC: 0.8054541077287396
+Weighted MatthewsCorrelation: 0.6955075662711215
+Correctly Classified Instances: 76.52173913043478
+Root mean squared error: 0.22659770581935165
+Weighted Precision: 0.7548115425353276
+Mean absolute error: 0.06032049816758536
+		
+Time end:Wed Dec 17 10.45.10 WET 2014
