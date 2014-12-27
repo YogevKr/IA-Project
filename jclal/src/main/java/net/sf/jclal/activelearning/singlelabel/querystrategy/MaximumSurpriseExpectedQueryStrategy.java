@@ -52,9 +52,7 @@ public class MaximumSurpriseExpectedQueryStrategy extends UncertaintySamplingQue
         double[] probabilities = distributionForInstance(instance);
 
         int indexMax = Utils.maxIndex(probabilities);
-        double max = probabilities[indexMax];
-
-        double result = max;
+        double result = probabilities[indexMax];
 
         for (double current : probabilities)
         {
